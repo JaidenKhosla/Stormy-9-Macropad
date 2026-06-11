@@ -1,0 +1,1 @@
+When I was debugging the 3D models in their STEP formats with Creality Print, TOP_CASE_PRINT_V2.STEP when sliced produced something that would've messed up the entire macropad. When you import it as an STL, it slices correctly. I included the STEP file, but please use the STL file.
