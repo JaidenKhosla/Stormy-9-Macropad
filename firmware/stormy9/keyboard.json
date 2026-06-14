@@ -15,7 +15,7 @@
         "rows": ["GP0", "GP1", "GP2"]
     },
     "processor": "RP2040",
-    "url": "https://github.com/JaidenKhosla/Macropad",
+    "url": "https://github.com/JaidenKhosla/Stormy-9-Macropad",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
